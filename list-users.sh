@@ -5,8 +5,6 @@ set -x
 API_URL="https://api.github.com"
 
 # GitHub username and personal access token
-export username="your-user"
-export token="yourtoken"
 USERNAME=$username
 TOKEN=$token
 
